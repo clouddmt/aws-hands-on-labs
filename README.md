@@ -10,7 +10,7 @@ This work supports my preparation for:
 
 ---
 
-## 📅 Daily Progress Tracker Source: AWS Educate
+## 📅 Daily Progress Tracker
 
 | Day | AWS Service | Focus Area | Status |
 |-----|------------|------------|--------|
@@ -40,7 +40,6 @@ This work supports my preparation for:
 ## 🛠 Tools & Resources
 
 - AWS Educate
-- AWS Skill Builder
 - AWS Free Tier
 - YouTube (hands-on labs and explanations)
 - AWS Documentation
@@ -50,6 +49,7 @@ This work supports my preparation for:
 ## 🗂 Repository Structure & Usage
 
 - Each folder represents one day or one AWS service
+- `README.md` → Overview & Intent
 - `notes.md` → Concept understanding
 - `steps.md` → Step-by-step hands-on execution
 - `screenshots/` → Visual proof (optional)

@@ -1,13 +1,30 @@
 # aws-hands-on-labs
 
-This repository documents my daily hands-on practice with AWS services.
-The goal is to build a strong cloud foundation through real labs,
-continuous learning, and consistent documentation.
+This repository documents my daily hands-on revision practice with AWS services after completion of **AWS re/Start Graduate Program**.
+The goal is to build a strong cloud foundation through real labs, continuous learning, and consistent documentation.
 
 This work supports my preparation for:
 - AWS Certifications
 - Cloud / DevOps Interviews
 - Real-world AWS problem solving
+
+---
+
+## 📅 Daily Progress Tracker Source: AWS Educate
+
+| Day | AWS Service | Focus Area | Status |
+|-----|------------|------------|--------|
+| 01  | AWS Management Console | Navigation, Regions, Services | ✅ |
+| 02  | Intro to Cloud 101 | Intro to AWS,  Intro to AWS core services | 🔄 |
+| 03  | Getting started with the Storage 
+| 04  | Getting started with the Compute
+| 05  | Getting started with the Networking
+| 06  | Getting started with the Databases
+| 07  | Getting started with the Cloud Operations
+| 08  | Getting started with the Security
+| 09  | Getting started with the Serverless
+
+🔄 In Progress  ⏳ Planned  ✅ Completed
 
 ---
 

@@ -1,34 +1,42 @@
-# Intro to Cloud 101
+# Introduction to Cloud Computing & AWS
 
-## Overview
-Intro to Cloud 101 is a foundational course from AWS Educate that introduces
-core cloud computing concepts and explains how cloud services are delivered
-using AWS infrastructure.
+This module covers the foundational concepts of cloud computing and an
+introduction to AWS core services. It provides an overview of how AWS
+delivers compute, storage, networking, security, and monitoring services.
 
-This module focuses on understanding cloud fundamentals before working
-with individual AWS services.
-
----
-
-## Why This Topic Matters
-- Builds the base for all AWS services
-- Helps understand why cloud computing is used
-- Introduces shared responsibility and pricing models
-- Essential before certifications and hands-on labs
+This learning is based on introductory AWS training and demos, focusing
+on understanding services before deep hands-on implementation.
 
 ---
 
 ## Topics Covered
-- What is cloud computing
-- Benefits of cloud computing
-- Types of cloud deployment models
-- Cloud service models (IaaS, PaaS, SaaS)
-- AWS global infrastructure (Regions, AZs)
+
+- Introduction to Cloud Computing
+- Introduction to AWS
+- AWS Core Services Overview
+- AWS Core Services Demos
+- Amazon S3
+- Amazon EC2
+- Amazon VPC
+- Amazon RDS
+- AWS Identity and Access Management (IAM)
+- AWS Lambda
+- Amazon CloudWatch
+
+---
+
+## Why This Module Matters
+
+- Builds strong cloud fundamentals
+- Introduces key AWS services used in real environments
+- Prepares for deeper hands-on labs and certifications
+- Helps understand how AWS services work together
 
 ---
 
 ## Learning Outcome
-- Gained clarity on cloud computing fundamentals
-- Understood how AWS delivers cloud services
-- Built strong conceptual foundation for AWS services
 
+- Understood cloud computing concepts
+- Learned the purpose of major AWS services
+- Gained awareness of AWS architecture and service categories
+- Prepared foundation for hands-on AWS practice

@@ -15,8 +15,8 @@ This work supports my preparation for:
 | Day | AWS Service | Focus Area | Status |
 |-----|------------|------------|--------|
 | 01  | AWS Management Console | Navigation, Regions, Services | ✅ |
-| 02  | Intro to Cloud 101 | Intro to AWS,  Intro to AWS core services | 🔄 |
-| 03  | Getting started with the Storage 
+| 02  | Intro to Cloud 101 | Intro to AWS,  Intro to AWS core services | ✅ |
+| 03  | Getting started with the Storage | 🔄 |
 | 04  | Getting started with the Compute
 | 05  | Getting started with the Networking
 | 06  | Getting started with the Databases

@@ -1,48 +1,96 @@
-## Intro to Cloud 101 – Notes
+## Introduction to Cloud Computing
 
-### What is Cloud Computing?
 Cloud computing is the on-demand delivery of IT resources such as compute,
-storage, and databases over the internet with pay-as-you-go pricing.
+storage, databases, and networking over the internet with pay-as-you-go pricing.
+
+Key benefits:
+- Scalability
+- Cost efficiency
+- High availability
+- Flexibility
 
 ---
 
-### Benefits of Cloud Computing
-- No upfront infrastructure cost
-- Pay only for what you use
-- Scalable and flexible resources
-- High availability and reliability
-- Faster innovation
+## Introduction to AWS
+
+Amazon Web Services (AWS) is a cloud platform that provides a wide range
+of services including compute, storage, networking, security, and analytics.
+AWS operates on a global infrastructure with regions and availability zones.
 
 ---
 
-### Cloud Deployment Models
-- Public Cloud: Resources owned and managed by cloud provider (AWS)
-- Private Cloud: Dedicated infrastructure for one organization
-- Hybrid Cloud: Combination of public and private cloud
+## AWS Core Services Overview
+
+AWS core services fall into key categories:
+- Compute
+- Storage
+- Networking
+- Database
+- Security
+- Monitoring
 
 ---
 
-### Cloud Service Models
-- IaaS (Infrastructure as a Service): EC2, EBS
-- PaaS (Platform as a Service): Elastic Beanstalk
-- SaaS (Software as a Service): Email, CRM applications
+## Amazon S3 (Simple Storage Service)
+
+- Object storage service
+- Used to store files, backups, and static website content
+- Highly durable and scalable
+- Data is stored as objects in buckets
 
 ---
 
-### AWS Global Infrastructure
-- Regions are geographic locations
-- Each region has multiple Availability Zones
-- Availability Zones are isolated but connected
-- Helps achieve high availability and fault tolerance
+## Amazon EC2 (Elastic Compute Cloud)
+
+- Virtual servers in the cloud
+- Provides full control over OS and instance configuration
+- Commonly used for applications and web servers
+- Works with security groups and key pairs
 
 ---
 
-### Shared Responsibility Model
-- AWS is responsible for security *of* the cloud
-- Customer is responsible for security *in* the cloud
+## Amazon VPC (Virtual Private Cloud)
+
+- Provides isolated networking environment in AWS
+- Allows control over IP ranges, subnets, and routing
+- Supports secure communication between services
 
 ---
 
-### Key Observation
-Understanding cloud basics makes AWS services easier to learn and apply.
+## Amazon RDS (Relational Database Service)
 
+- Managed relational database service
+- Supports engines like MySQL, PostgreSQL, and MariaDB
+- AWS manages backups, patching, and availability
+
+---
+
+## AWS Identity and Access Management (IAM)
+
+- Controls access to AWS resources
+- Uses users, groups, roles, and policies
+- Follows least privilege principle
+
+---
+
+## AWS Lambda
+
+- Serverless compute service
+- Runs code without managing servers
+- Charged only for execution time
+- Event-driven architecture
+
+---
+
+## Amazon CloudWatch
+
+- Monitoring and logging service
+- Collects metrics and logs from AWS resources
+- Used for alarms, performance monitoring, and troubleshooting
+
+---
+
+## Key Observation
+
+AWS services are designed to work together to build secure, scalable,
+and reliable cloud architectures.
